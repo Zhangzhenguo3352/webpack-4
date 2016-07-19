@@ -2,7 +2,12 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/mytest-file/Component-this.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/mytest-file/es5-props.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/mytest-file/es6-props-2.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/mytest-file/index.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/mytest-file/prac.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/mytest-file/propTypes.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/mytest-file/props-dom.js" charset="UTF-8" />
   </component>
 </project>
